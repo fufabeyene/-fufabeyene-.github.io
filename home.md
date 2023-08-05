@@ -1,7 +1,7 @@
 ---
 title: Home
 lang: en
-ref: home
+ref: index
 ---
 
 <!-- <img style="float: left;" src="Fufa_Beyene.jpg" title="After my Ph.D. defense on 13-th of January, 2023, in Ethiopia."> -->
