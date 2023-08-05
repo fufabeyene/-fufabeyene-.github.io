@@ -4,9 +4,9 @@ lang: en
 ref: home
 ---
 
-<!-- <img style="float: left;" src="Fufa_Beyene.jpg" title="After my Ph.D. defense on 13-th of January, 2023, in Ethiopia."> -->
+<!-- <img style="float: right;" src="Fufa_Beyene.jpg" title="After my Ph.D. defense on 13-th of January, 2023, in Ethiopia."> -->
 
- <img style="float: left;" src="Fufa_Beyene.jpg" width="300">
+ <img style="float: right;" src="Fufa_Beyene.jpg" width="300">
 
 I am a Ph.D. holder in Mathematics in Combinatorics and an assitant professor at [**Kotebe University of Education**](https://www.kue.edu.et). I earned my **Ph.D. in Mathematics with Combinatorics Specialization** from Addis Ababa University under the supervision of [Roberto Mantaci](http://www.informatique.univ-paris-diderot.fr/), and the co-supervisions of [Samuel A. Fufa](https://www.aau.edu.et) and [Jörgen Backelin](https://www.su.se/joeb). 
 
