@@ -1,4 +1,4 @@
-theme: pages-themes/architect@v0.2.0
+theme: - jekyll-remote-theme
 title: Fufa Beyene
 description: My home page
 t:
