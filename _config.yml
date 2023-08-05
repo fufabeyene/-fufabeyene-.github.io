@@ -1,0 +1,14 @@
+theme: jekyll-theme-cayman
+title: Fufa Beyene
+description: 
+  en: My home page
+t:
+    index:
+        en: index.md
+    cv:
+        en: cv
+    research:
+        en: research
+    teaching:
+        en: teaching
+languages: ["en"]
