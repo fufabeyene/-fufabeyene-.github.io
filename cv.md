@@ -4,5 +4,5 @@ lang: en
 ref: cv
 ---
 
-[My Curriculum Vitae](CV_fufa_beyene.pdf)
+[My Curriculum Vitae](CV_FUFA_BEYENE.pdf)
 
