@@ -22,6 +22,7 @@ My Ph.D. Dissertation, defended in January 2023, was about some combinatorial re
 - _Further investigations on a permutation code_, Ethiopian Mathematical Professionals Association, Hosted by Addis Ababa University, Ethiopia, March 5-6, 2021; IRIF, Thursday Seminar, France, November 15, 2020, and  African Mathematics Seminar, 2020, [Available on Youtube at](https://www.youtube.com/results?search_query=fufa+beyene).
 
 ### Conferences and Workshops
+- Attended the workshop entitled Women in Sage-Uganda (September 04-08, 2023), [Uganda](https://sites.google.com/must.ac.ug/wis-uganda/home).
 - Attended the 34th International Conference on Formal Power Series & Algebraic Combinatorics (FPSAC 2022), [India](https://math.iisc.ac.in/fpsac2022/).
-- Participated on the Combinatorial Research Studio (CoRS) workshops: Palermo, Sicily, Italy, August 4-12, 2022; Stockholm, Sweden, December 4-12, 2021, supported by [ISP](https://www.isp.uu.se/what-we-do/mathematics/networks/cors/)
+- Participated in the Combinatorial Research Studio (CoRS) workshops: Palermo, Sicily, Italy, August 4-12, 2022; Stockholm, Sweden, December 4-12, 2021, supported by [ISP](https://www.isp.uu.se/what-we-do/mathematics/networks/cors/)
 - 4-th Network Meeting for Sida- and ISP-funded PhD Students and Postdocs in Mathematics, August 5-9, 2019, Bishoftu, [Ethiopia](https://liu.se/en/article/fourth-network-meeting-sida-isp-2019)
