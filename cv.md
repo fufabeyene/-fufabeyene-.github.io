@@ -33,21 +33,21 @@ March 2023-Now: Head of the Department of Mathematics
 [Kotebe University of Education (KUE), Addis Ababa, Ethiopia,](www.kue.edu.et)
 
 ### Work Experience
-Jan. 2023- Now: Assistant Professor in the Department of Mathematics, KUE, Addis Ababa, Ethiopia, www.kue.edu.et <br/>
-Oct. 2017- Dec. 2022: Lecturer in the Department of Mathematics, KUE, Addis Ababa, Ethiopia, www.kue.edu.et <br/>
-Feb 2019- June 2022: Part-time Lecturer at Rift Valley University, Rift Valley University, Addis Ababa, Ethiopia, www.rvu.edu.et) <br/>
-Oct. 2014- Sep.2017: Lecturer in the Department of Mathematics, Welkite University, SNNPR, Ethiopia, www.wku.edu.et <br/>
-Nov. 2012- June 2014: Program development and quality enhancement coordinator, Wolaita Sodo University, SNNPR, Ethiopia, www.wsu.edu.et <br/>
+Jan. 2023- Now: Assistant Professor in the Department of Mathematics, [KUE, Addis Ababa, Ethiopia,](www.kue.edu.et) <br/>
+Oct. 2017- Dec. 2022: Lecturer in the Department of Mathematics, [KUE, Addis Ababa, Ethiopia,](www.kue.edu.et) <br/>
+Feb 2019- June 2022: Part-time Lecturer at Rift Valley University, [Rift Valley University, Addis Ababa, Ethiopia,](www.rvu.edu.et) <br/>
+Oct. 2014- Sep.2017: Lecturer in the Department of Mathematics, [Welkite University, SNNPR, Ethiopia,](www.wku.edu.et) <br/>
+Nov. 2012- June 2014: Program development and quality enhancement coordinator, [Wolaita Sodo University, SNNPR, Ethiopia,](www.wsu.edu.et) <br/>
                       (Coaching, Auditing quality, Identifying and Reporting gaps) <br/>
-Jan. 2011- Sep. 2014: Lecturer in the Department of Mathematics, Wolaita Sodo University, SNNPR, Ethiopia, www.wsu.edu.et <br/>
-Sep. 2007- Aug. 2009: Graduate assistant in the Department of Mathematics, Wolaita Sodo University, SNNPR, Ethiopia,www.wsu.edu.et <br/>
+Jan. 2011- Sep. 2014: Lecturer in the Department of Mathematics, [Wolaita Sodo University, SNNPR, Ethiopia,](www.wsu.edu.et) <br/>
+Sep. 2007- Aug. 2009: Graduate assistant in the Department of Mathematics, [Wolaita Sodo University, SNNPR, Ethiopia,](www.wsu.edu.et) <br/>
                       (Assisting, Teaching, and Mentoring) <br/>
 
 ### Education and Training
-Sep. 2017- Jan. 2023: Ph.D. in Mathematics Combinatorics Specialty. Grade: 3.91/4.00. Addis Ababa University, Addis Ababa, Ethiopia, www.aau.edu.et  <br/>
-Sep. 2012- June 2013: Higher Diploma Program (HDP) Certificate, Wolaita Sodo University, SNNPR, Ethiopia, www.wsu.edu.et  <br/>
-Sep. 2009- Jan. 2011: M.SC. Degree in Mathematics. Grade: 3.83/4.00 Addis Ababa University, Addis Ababa, Ethiopia, www.aau.edu.et  <br/>
-Sep. 2004- July. 2007: B.Ed Degree in Mathematics. Grade: 3.61/4.00 Mekelle University, Tigri, Ethiopia, www.mu.edu.et  <br/>
+Sep. 2017- Jan. 2023: Ph.D. in Mathematics Combinatorics Specialty. Grade: 3.91/4.00. [Addis Ababa University, Addis Ababa, Ethiopia,](www.aau.edu.et) <br/>
+Sep. 2012- June 2013: Higher Diploma Program (HDP) Certificate, [Wolaita Sodo University, SNNPR, Ethiopia,](www.wsu.edu.et)  <br/>
+Sep. 2009- Jan. 2011: M.SC. Degree in Mathematics. Grade: 3.83/4.00 [Addis Ababa University, Addis Ababa, Ethiopia,](www.aau.edu.et) <br/>
+Sep. 2004- July. 2007: B.Ed Degree in Mathematics. Grade: 3.61/4.00 [Mekelle University, Tigri, Ethiopia,](www.mu.edu.et)  <br/>
 
 ### Ph.D. Thesis title
 Some Combinatorial Results on Set Partitions and Permutations by Means of Subexcedant
