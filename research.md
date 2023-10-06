@@ -4,6 +4,8 @@ lang: en
 ref: research
 ---
 
+<!-- <img style="float: right;" src="RFM.jpg" title="After my Ph.D. defense on 13-th of January, 2023, in Ethiopia."> -->
+
 My research areas are enumerative and algebraic combinatorics. Specifically, I study the distribution of various statistics on combinatorial objects like set partitions, permutations, and subexcedant functions. Also, I study the structure of different combinatorial objects.
 
 <img style="float: center;" src="RFM.jpg" width="300">
