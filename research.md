@@ -7,7 +7,7 @@ ref: research
 My research areas are enumerative and algebraic combinatorics. Specifically, I study the distribution of various statistics on combinatorial objects like set partitions, permutations, and subexcedant functions. Also, I study the structure of different combinatorial objects.
 
 <!-- <img style="float: center;" src="RFM.JPG" title="After my Ph.D. defense on 13th of January, 2023, in Ethiopia."> -->
-<img style="float: center;" src="RFM.JPG" width="400">
+<img style="float: center;" src="RFM.JPG" width="600">
 
 My Ph.D. Dissertation, defended in January 2023, was about some combinatorial results on set partitions and permutations by means of subexcedant functions. My Supervisor was [Roberto Mantaci](http://www.informatique.univ-paris-diderot.fr/), my cosupervisors were [Samuel A. Fufa](https://www.aau.edu.et) and [Jörgen Backelin](https://www.su.se/joeb).
 
