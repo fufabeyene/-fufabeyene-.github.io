@@ -4,12 +4,17 @@ lang: en
 ref: cv
 ---
 
+<!-- <img style="float: right;" src="FB.jpg" title="Me in 2023, Ethiopia."> -->
+ 
 [My Curriculum Vitae](CV_FUFA_BEYENE.pdf)
 
 ### Personal Information
 
 <table>
 <tr>
+<td>
+<img style="float: left;" src="FB.jpg" width="300">
+</td>
 <td>
 Given Name: Fufa Beyene <br/>
 Family Name: Nigussie <br/>
