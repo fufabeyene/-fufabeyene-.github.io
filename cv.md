@@ -13,7 +13,7 @@ ref: cv
 <table>
 <tr>
 <td>
-<img style="float: left;" src="FB.jpg" width="300">
+<img style="float: left;" src="FB.jpg" width="200">
 </td>
 <td>
 Given Name: Fufa Beyene <br/>
