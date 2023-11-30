@@ -6,7 +6,7 @@ ref: cv
 
 <!-- <img style="float: right;" src="FB.jpg" title="Me in 2023, Ethiopia."> -->
  
-[My Curriculum Vitae](CV_FUFA_BEYENE.pdf)
+[My Curriculum Vitae](CV_2023_FUFA_BEYENE.pdf)
 
 ### Personal Information
 
